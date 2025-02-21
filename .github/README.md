@@ -1,3 +1,6 @@
+#### Explain about this config by GitHub Copilot
+https://github.com/copilot/share/42290386-4224-8043-9153-be0d005868a9
+
 <div align="center">
     <img src="assets/neovim-flake-logo-work.svg" alt="neovim-flake Logo"  width="200">
 </div>
