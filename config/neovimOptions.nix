@@ -1,6 +1,6 @@
 {
   programs.nixvim = {
     enableMan = true;
-    colorschemes.tokyonight.autoLoad = true;
+    colorschemes.tokyonight.enable = true;
   };
 }
