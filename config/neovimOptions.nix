@@ -1,3 +1,4 @@
+{ config, pkgs, ... }:
 {
   programs.nixvim = {
     enableMan = true;
