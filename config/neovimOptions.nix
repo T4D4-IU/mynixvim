@@ -1,10 +1,6 @@
-{ config, pkgs, ... }:
 {
   programs.nixvim = {
     enableMan = true;
-    colorschemes.tokyonight = {
-      enable = true;
-      autoLoad = true;
-    };
+    colorschemes.gruvbox.enable = true;
   };
 }
