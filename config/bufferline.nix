@@ -3,14 +3,13 @@
     bufferline.enable = true;
     treesitter = {
       enable = true;
-      
     };
     treesj.enable = true;
     trim.enable = true;
     trouble.enable = true;
     ts-autotag.enable = true;
     ts-comments.enable = true;
-    twiligh
+    twilight.enable = true;
     typescript-tools.enable = true;
     undotree.enable = true;
     vim-css-color.enable = true;
