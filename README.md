@@ -1,5 +1,5 @@
 # Nixvim template
-
+Japanese translation of README.md is available [here](./README_JP.md).
 This template gives you a good starting point for configuring nixvim standalone.
 
 ## Configuring
