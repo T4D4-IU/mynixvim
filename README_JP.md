@@ -43,6 +43,8 @@ nix run .
 - https://nix-community.github.io/nixvim/plugins/neotest/index.html
 - https://nix-community.github.io/nixvim/plugins/nix.html
 - https://nix-community.github.io/nixvim/plugins/noice/index.html
+- https://nix-community.github.io/nixvim/plugins/notify/index.html
+- https://nix-community.github.io/nixvim/plugins/overseer/index.html
 - https://nix-community.github.io/nixvim/plugins/package-info/index.html
 - https://nix-community.github.io/nixvim/plugins/precognition/index.html
 - https://nix-community.github.io/nixvim/plugins/quickmath/index.html
