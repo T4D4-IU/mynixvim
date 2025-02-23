@@ -3,6 +3,18 @@
     bufferline.enable = true;
     treesitter = {
       enable = true;
+      folding = {
+        enable = true;
+      };
+      settings = {
+        ensure_installed = "maintained";
+        highlight = {
+          enable = true;
+        };
+        indent = {
+          enable = true;
+        };
+      };
     };
     treesj.enable = true;
     trim.enable = true;
