@@ -19,16 +19,7 @@
     quickmath.enable = true;
     rainbow-delimiters.enable = true;
     render-markdown.enable = true;
-    rust-tools = {
-      enable = true;
-      inlayHints = {
-        auto = true;
-        highlight = "Comment";
-      };
-      server = {
-        checkOnSave = true;
-      };
-    };
+    rustaceanvim.enable = true;
     startify = {
       enable = true;
       settings = {
