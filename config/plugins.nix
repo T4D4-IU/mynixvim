@@ -3,7 +3,7 @@
     bufferline.enable = true;
     rust-tools = {
       enable = true;
-      inrlayHints = {
+      inlayHints = {
         auto = true;
         highlight = "Comment";
       };
