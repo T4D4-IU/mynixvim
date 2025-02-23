@@ -3,7 +3,7 @@
     bufferline.enable = true;
     neotest = {
       enable = true;
-      addapters = {
+      adapters = {
         deno.enable = true;
         foundry.enable = true;
         jest.enable = true;
