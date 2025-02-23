@@ -15,7 +15,7 @@
     lsp-status.enable = true;
     lualine.enable = true;
     navbuddy.enable = true;
-    navic.enabled = true;
+    navic.enable = true;
     neocord.enable = true;
     neotest = {
       enable = true;
