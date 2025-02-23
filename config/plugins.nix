@@ -3,9 +3,7 @@
     bufferline.enable = true;
     treesitter = {
       enable = true;
-      folding = {
-        enable = true;
-      };
+      folding = true;
       settings = {
         ensure_installed = "maintained";
         highlight = {
