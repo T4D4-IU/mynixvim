@@ -15,7 +15,7 @@
     friendly-snippets.enable = true;
     fzf-lua.enable = true;
     helpview.enable = true;
-    htms.enable = true;
+    hmts.enable = true;
     lazygit.enable = true;
     lsp = {
       enable = true;
