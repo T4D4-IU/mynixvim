@@ -1,6 +1,24 @@
 {
   plugins = {
     bufferline.enable = true;
+    neotest = {
+      enable = true;
+      addapters = {
+        deno.enable = true;
+        foundry.enable = true;
+        jest.enable = true;
+        playwright.enable = true;
+        rust.enable = true;
+        vitest.enable = true;
+      };
+    };
+    nix.enable = true;
+    noice.enable = true;
+    package-info.enable = true;
+    precognition.enable = true;
+    quickmath.enable = true;
+    rainbow-delimiters.enable = true;
+    render-markdown.enable = true;
     rust-tools = {
       enable = true;
       inlayHints = {

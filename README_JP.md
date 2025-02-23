@@ -16,7 +16,17 @@ nix run .
 ```
 
 ### 入れたVimプラグインリスト
-https://nix-community.github.io/nixvim/plugins/startup/index.html
+
+https://nix-community.github.io/nixvim/plugins/neotest/index.html
+https://nix-community.github.io/nixvim/plugins/nix.html
+https://nix-community.github.io/nixvim/plugins/noice/index.html
+https://nix-community.github.io/nixvim/plugins/package-info/index.html
+https://nix-community.github.io/nixvim/plugins/precognition/index.html
+https://nix-community.github.io/nixvim/plugins/quickmath/index.html
+https://nix-community.github.io/nixvim/plugins/rainbow-delimiters/index.html
+https://nix-community.github.io/nixvim/plugins/render-markdown/index.html
+https://nix-community.github.io/nixvim/plugins/rust-tools/index.html
+https://nix-community.github.io/nixvim/plugins/startify/index.html
 https://nix-community.github.io/nixvim/plugins/statuscol/index.html
 https://nix-community.github.io/nixvim/plugins/tagbar.html
 https://nix-community.github.io/nixvim/plugins/tailwind-tools/index.html
