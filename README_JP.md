@@ -17,6 +17,13 @@ nix run .
 
 ### 入れたVimプラグインリスト
 
+https://nix-community.github.io/nixvim/plugins/lsp/index.html
+https://nix-community.github.io/nixvim/plugins/lsp-lines/index.html
+https://nix-community.github.io/nixvim/plugins/lsp-status/index.html
+https://nix-community.github.io/nixvim/plugins/lualine/index.html
+https://nix-community.github.io/nixvim/plugins/navbuddy/index.html
+https://nix-community.github.io/nixvim/plugins/navic/index.html
+https://nix-community.github.io/nixvim/plugins/neocord/index.html
 https://nix-community.github.io/nixvim/plugins/neotest/index.html
 https://nix-community.github.io/nixvim/plugins/nix.html
 https://nix-community.github.io/nixvim/plugins/noice/index.html

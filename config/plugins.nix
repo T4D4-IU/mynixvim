@@ -1,6 +1,22 @@
 {
   plugins = {
     bufferline.enable = true;
+    lsp = {
+      enable = true;
+      inlayHints = true;
+      servers = {
+        biome ={
+          enable = true;
+          autostart = true;
+        };
+      };
+    };
+    lsp-lines.enable = true;
+    lsp-status.enable = true;
+    lualine.enable = true;
+    navbuddy.enable = true;
+    navic.enabled = true;
+    neocord.enable = true;
     neotest = {
       enable = true;
       adapters = {
