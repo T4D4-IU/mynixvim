@@ -28,7 +28,6 @@
         html.enable = true;
         htmx.enable = true;
         markdown_oxide.enable = true;
-        move_analyzer.enable = true;
         svelte.enable = true;
         tailwindcss.enable = true;
         terraform_lsp.enable = true;
