@@ -1,6 +1,16 @@
 {
   plugins = {
     bufferline.enable = true;
+    rust-tools = {
+      enable = true;
+      inrlayHints = {
+        auto = true;
+        highlight = "Comment";
+      };
+      server = {
+        checkOnSave = true;
+      };
+    };
     startify = {
       enable = true;
       settings = {
