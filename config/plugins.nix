@@ -5,7 +5,7 @@
       enable = true;
       folding = true;
       settings = {
-        ensure_installed = "maintained";
+        ensure_installed = "all";
         highlight = {
           enable = true;
         };
