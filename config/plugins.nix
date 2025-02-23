@@ -1,6 +1,23 @@
 {
   plugins = {
     bufferline.enable = true;
+    startup = {
+      enable = true;
+      theme = "dashboard";
+    };
+    statuscol.enable = true;
+    tagbar.enable = true;
+    tailwind-tools.enable = true;
+    telescope = {
+      enable = true;
+      extensinos = {
+        file-browser.enable = true;
+        fzf-native.enable = true;
+        ui-select.enable = true;
+      };
+    };
+    todo-comments.enable = true;
+    toggleterm.enable = true;
     treesitter = {
       enable = true;
       folding = true;

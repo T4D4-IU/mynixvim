@@ -16,8 +16,14 @@ nix run .
 ```
 
 ### 入れたVimプラグインリスト
+https://nix-community.github.io/nixvim/plugins/startup/index.html
+https://nix-community.github.io/nixvim/plugins/statuscol/index.html
+https://nix-community.github.io/nixvim/plugins/tagbar.html
+https://nix-community.github.io/nixvim/plugins/tailwind-tools/index.html
+https://nix-community.github.io/nixvim/plugins/telescope/index.html
+https://nix-community.github.io/nixvim/plugins/todo-comments/index.html
+https://nix-community.github.io/nixvim/plugins/toggleterm/index.html
 https://nix-community.github.io/nixvim/plugins/treesitter/index.html
-
 https://nix-community.github.io/nixvim/plugins/treesj/index.html
 https://nix-community.github.io/nixvim/plugins/trim/index.html
 https://nix-community.github.io/nixvim/plugins/trouble/index.html
