@@ -10,7 +10,7 @@
     tailwind-tools.enable = true;
     telescope = {
       enable = true;
-      extensinos = {
+      extensions = {
         file-browser.enable = true;
         fzf-native.enable = true;
         ui-select.enable = true;
