@@ -16,7 +16,23 @@ nix run .
 ```
 
 ### 入れたVimプラグインリスト
-
+https://nix-community.github.io/nixvim/plugins/bufferline/index.html
+https://nix-community.github.io/nixvim/plugins/ccc/index.html
+https://nix-community.github.io/nixvim/plugins/codesnap/index.html
+https://nix-community.github.io/nixvim/plugins/comment-box/index.html
+https://nix-community.github.io/nixvim/plugins/compiler/index.html
+https://nix-community.github.io/nixvim/plugins/copilot-chat/index.html
+https://nix-community.github.io/nixvim/plugins/copilot-vim/index.html
+https://nix-community.github.io/nixvim/plugins/coverage/index.html
+https://nix-community.github.io/nixvim/plugins/crates/index.html
+https://nix-community.github.io/nixvim/plugins/csvview/index.html
+https://nix-community.github.io/nixvim/plugins/dropbar/index.html
+https://nix-community.github.io/nixvim/plugins/emmet/index.html
+https://nix-community.github.io/nixvim/plugins/friendly-snippets.html
+https://nix-community.github.io/nixvim/plugins/fzf-lua/index.html
+https://nix-community.github.io/nixvim/plugins/helpview/index.html
+https://nix-community.github.io/nixvim/plugins/hmts/index.html
+https://nix-community.github.io/nixvim/plugins/lazygit/index.html
 https://nix-community.github.io/nixvim/plugins/lsp/index.html
 https://nix-community.github.io/nixvim/plugins/lsp-lines/index.html
 https://nix-community.github.io/nixvim/plugins/lsp-status/index.html
@@ -64,3 +80,4 @@ https://nix-community.github.io/nixvim/plugins/twilight/index.html
 
 #### memo
 https://zenn.dev/duglaser/articles/c02d6a937a48df
+https://qiita.com/aratana_tamutomo/items/7363fc9cf2e128a2c56b

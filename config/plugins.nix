@@ -1,15 +1,40 @@
 {
   plugins = {
     bufferline.enable = true;
+    ccc.enable = true;
+    codesnap.enable = true;
+    comment-box.enable = true;
+    compiler.enable = true;
+    copilot-chat.enable = true;
+    copilot-vim.enable = true;
+    coverage.enable = true;
+    crates.enable = true;
+    csvview.enable = true;
+    dropbar.enable = true;
+    emmet.enable = true;
+    friendly-snippets.enable = true;
+    fzf-lua.enable = true;
+    helpview.enable = true;
+    htms.enable = true;
+    lazygit.enable = true;
     lsp = {
       enable = true;
       inlayHints = true;
       servers = {
-        biome ={
-          enable = true;
-          autostart = true;
+        astro.enable = true;
+        biome.enable = true;
+        gh_actions_ls.enable = true;
+        graphql.enable = true;
+        html.enable = true;
+        htmx.enable = true;
+        markdown_oxide.enable = true;
+        move_analyzer.enable = true;
+        solidity.enable = true;
+        svelte.enable = true;
+        tailwindcss.enable = true;
+        terraform_lsp.enable = true;
+        ts_ls.enable = true;
         };
-      };
     };
     lsp-lines.enable = true;
     lsp-status.enable = true;
