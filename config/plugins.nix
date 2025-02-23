@@ -42,20 +42,6 @@
     rainbow-delimiters.enable = true;
     render-markdown.enable = true;
     rustaceanvim.enable = true;
-    startify = {
-      enable = true;
-      settings = {
-        custom_header = [
-          ""
-          "     ███╗   ██╗██╗██╗  ██╗██╗   ██╗██╗███╗   ███╗"
-          "     ████╗  ██║██║╚██╗██╔╝██║   ██║██║████╗ ████║"
-          "     ██╔██╗ ██║██║ ╚███╔╝ ██║   ██║██║██╔████╔██║"
-          "     ██║╚██╗██║██║ ██╔██╗ ╚██╗ ██╔╝██║██║╚██╔╝██║"
-          "     ██║ ╚████║██║██╔╝ ██╗ ╚████╔╝ ██║██║ ╚═╝ ██║"
-          "     ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝     ╚═╝"
-          ];
-      };
-    };
     statuscol.enable = true;
     tagbar.enable = true;
     tailwind-tools.enable = true;
