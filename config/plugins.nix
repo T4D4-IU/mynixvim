@@ -1,10 +1,7 @@
 {
   plugins = {
     bufferline.enable = true;
-    startup = {
-      enable = true;
-      theme = "dashboard";
-    };
+    startify.enable = true;
     statuscol.enable = true;
     tagbar.enable = true;
     tailwind-tools.enable = true;
