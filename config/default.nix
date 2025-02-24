@@ -4,5 +4,6 @@
     ./plugins.nix
     ./lsp.nix
     ./startify.nix
+    ./treesitter.nix
     ];
 }
