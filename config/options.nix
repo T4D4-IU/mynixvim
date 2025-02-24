@@ -10,4 +10,9 @@
         linebreak = true; # 折り返し時に単語を分割
     };
     colorschemes.catppuccin.enable = true; # colorscheme
+    extraConfigLua = # lua
+    ''
+      vim.opt.whichwrap:append("<>[]hl")
+      vim.opt.listchars:append("space:·")
+    '';
 }
