@@ -10,7 +10,9 @@
           enable = true;
           package = null;
         };
-        graphql.enable = true;
+        # graphql.enable = true;
+        # disabled because of error
+        # nodePackages.graphql-language-service-cli cannot be found in pkgs
         html.enable = true;
         htmx.enable = true;
         markdown_oxide.enable = true;
