@@ -5,6 +5,7 @@
             enable = true;
             folding = true;
             settings = {
+                auto_install = false;
                 ensure_installed = [
                     "astro"
                     "dockerfile"
@@ -15,10 +16,7 @@
                     "graphql"
                     "html"
                     "javascript"
-                    "jsodc"
                     "json"
-                    "josn5"
-                    "lua"
                     "markdown"
                     "nim"
                     "nix"
